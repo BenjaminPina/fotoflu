@@ -2,6 +2,8 @@ backup
 fotoflu
 iconos
 lib
+lazarus
+*.bak
 *.exe
 *.ini
 *.dll

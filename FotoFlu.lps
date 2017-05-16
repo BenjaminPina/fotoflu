@@ -62,10 +62,11 @@
         <UnitName Value="uCopiar"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="42"/>
-        <CursorPos Y="60"/>
+        <TopLine Value="47"/>
+        <CursorPos X="45" Y="53"/>
         <UsageCount Value="208"/>
         <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit4>
       <Unit5>
         <Filename Value="udatosdm.pas"/>
@@ -75,7 +76,7 @@
         <ResourceBaseClass Value="DataModule"/>
         <EditorIndex Value="2"/>
         <TopLine Value="145"/>
-        <CursorPos X="44" Y="159"/>
+        <CursorPos X="16" Y="151"/>
         <UsageCount Value="179"/>
         <Bookmarks Count="1">
           <Item0 X="5" Y="483" ID="1"/>
@@ -137,7 +138,7 @@
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit12>
     </Units>
-    <JumpHistory Count="14" HistoryIndex="13">
+    <JumpHistory Count="13" HistoryIndex="12">
       <Position1>
         <Filename Value="uprincipalfrm.pas"/>
         <Caret Line="590" Column="25" TopLine="575"/>
@@ -190,10 +191,6 @@
         <Filename Value="uprincipalfrm.pas"/>
         <Caret Line="365" Column="13" TopLine="340"/>
       </Position13>
-      <Position14>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="539" Column="3" TopLine="555"/>
-      </Position14>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

@@ -148,7 +148,7 @@ implementation
 procedure TdmDatos.DataModuleCreate(Sender: TObject);
 begin
   FVersion := '2.4';
-  {$IFDEF Windows}
+  {$IFDEF WIN32}
   zcDatos.LibraryLocation := RutaEjecutable + 'sqlite3.dll';
   {$ENDIF}
   zcDatos.Database := RutaEjecutable + 'fotoflu.sqlite3';
