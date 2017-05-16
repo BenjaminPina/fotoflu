@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="13">
+    <Units Count="19">
       <Unit0>
         <Filename Value="FotoFlu.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -62,8 +62,8 @@
         <UnitName Value="uCopiar"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="47"/>
-        <CursorPos X="45" Y="53"/>
+        <TopLine Value="53"/>
+        <CursorPos Y="62"/>
         <UsageCount Value="208"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -137,60 +137,50 @@
         <UsageCount Value="10"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="654"/>
+        <CursorPos Y="663"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\lcl\include\progressbar.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="267"/>
+        <CursorPos Y="277"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6457"/>
+        <CursorPos Y="6468"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32wscomctrls.pp"/>
+        <UnitName Value="Win32WSComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="666"/>
+        <CursorPos Y="678"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="532"/>
+        <CursorPos Y="542"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32winapi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2183"/>
+        <CursorPos Y="2196"/>
+        <UsageCount Value="10"/>
+      </Unit18>
     </Units>
-    <JumpHistory Count="13" HistoryIndex="12">
-      <Position1>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="590" Column="25" TopLine="575"/>
-      </Position1>
-      <Position2>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="336" Column="3" TopLine="331"/>
-      </Position2>
-      <Position3>
-        <Filename Value="udatosdm.pas"/>
-        <Caret Line="132" Column="14" TopLine="125"/>
-      </Position3>
-      <Position4>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="336" Column="3" TopLine="331"/>
-      </Position4>
-      <Position5>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="147" Column="25" TopLine="144"/>
-      </Position5>
-      <Position6>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="176" Column="25" TopLine="168"/>
-      </Position6>
-      <Position7>
-        <Filename Value="udatosdm.pas"/>
-        <Caret Line="224" Column="3" TopLine="135"/>
-      </Position7>
-      <Position8>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="585" Column="33" TopLine="567"/>
-      </Position8>
-      <Position9>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="539" Column="3" TopLine="531"/>
-      </Position9>
-      <Position10>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="478" Column="3" TopLine="455"/>
-      </Position10>
-      <Position11>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="390" Column="3" TopLine="388"/>
-      </Position11>
-      <Position12>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="105" Column="3" TopLine="103"/>
-      </Position12>
-      <Position13>
-        <Filename Value="uprincipalfrm.pas"/>
-        <Caret Line="365" Column="13" TopLine="340"/>
-      </Position13>
-    </JumpHistory>
+    <JumpHistory HistoryIndex="-1"/>
   </ProjectSession>
 </CONFIG>

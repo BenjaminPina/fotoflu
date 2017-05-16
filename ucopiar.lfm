@@ -11,7 +11,7 @@ object frmCopiar: TfrmCopiar
   OnActivate = FormActivate
   OnCreate = FormCreate
   Position = poOwnerFormCenter
-  LCLVersion = '1.6.0.4'
+  LCLVersion = '1.6.4.0'
   object pbrAvance: TProgressBar
     Left = 8
     Height = 20
